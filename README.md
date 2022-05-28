@@ -5,6 +5,6 @@ INSTALLATION:
 
 Simply install BetterDiscord or a seperate Discord client with Theme support 
 
-Download Glory-to-Arstotzka.theme.css
+Download Glory To Arstotzka.theme.css
 
 Drop the theme file into your BetterDiscord themes folder
